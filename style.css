@@ -4,7 +4,7 @@
 * Font family : Roboto
 */
 
-/** Font family used */
+/** Font family used, because i could not see standard font family to match that of assignment*/
 @font-face {
   font-family: roboto;
   src: url(Roboto/Roboto-Bold.ttf);
